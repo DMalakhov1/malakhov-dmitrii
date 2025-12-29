@@ -6,4 +6,6 @@
 
 Преподаватель будет использовать этот файл для расчета вашей метрики качества.
 
-# ВАЖНО, СЮДА ПРИКРЕПИЛ submit гонончый, перепроверял 3 раза (можно посмотреть в kaggle там файлы называются submission_proverka_1,  submission_proverka_2,  submission_proverka_3. 
+# ВАЖНО
+
+СЮДА ПРИКРЕПИЛ submit гонончый, перепроверял 3 раза (можно посмотреть в kaggle там файлы называются submission_proverka_1,  submission_proverka_2,  submission_proverka_3. 
